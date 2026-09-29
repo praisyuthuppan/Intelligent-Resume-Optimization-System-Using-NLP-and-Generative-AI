@@ -44,7 +44,7 @@ Uses a custom 4-factor scoring framework:
 
 ### AI Resume Rewriting
 
-* Powered by Groq Llama 3.3 70B
+* Powered by Openai/gpt-oss-120b
 * Rewrites professional summary, experience, and project descriptions
 * Preserves genuine candidate information
 * Improves alignment with target job roles
@@ -102,7 +102,7 @@ Optimized Resume Generation
 ### Generative AI
 
 * Groq API
-* Llama 3.3 70B Versatile
+* Openai/gpt-oss-120b
 
 ### Deployment
 
@@ -122,7 +122,7 @@ Optimized Resume Generation
 3. Technical skills are identified from the Job Description.
 4. Missing skills are detected from the resume.
 5. ATS compatibility is calculated using four scoring techniques.
-6. Groq Llama 3.3 70B generates an optimized resume.
+6. Openai/gpt-oss-120b generates an optimized resume.
 7. The optimized resume is displayed and made available for download.
 
 ---
