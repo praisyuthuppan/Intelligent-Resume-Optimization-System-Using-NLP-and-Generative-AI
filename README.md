@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI Resume Rewriter is an NLP-powered application that automatically tailors resumes to specific job descriptions. The system analyzes resume-job compatibility, identifies missing skills, calculates ATS scores, and generates an optimized ATS-friendly resume using Groq-hosted Llama 3.3 70B.
+AI Resume Rewriter is an NLP-powered application that automatically tailors resumes to specific job descriptions. The system analyzes resume-job compatibility, identifies missing skills, calculates ATS scores, and generates an optimized ATS-friendly resume using Groq-hosted Openai/gpt-oss-120b
 
 The objective of this project is to help job seekers improve resume relevance, keyword alignment, and overall ATS performance while preserving genuine experience and qualifications.
 
